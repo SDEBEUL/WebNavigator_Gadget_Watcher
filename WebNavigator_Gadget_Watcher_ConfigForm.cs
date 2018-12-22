@@ -9,7 +9,7 @@ using System.Windows.Forms;
 using System.Xml.Linq;
 
 [assembly: log4net.Config.XmlConfigurator(Watch = true)]
-
+//
 namespace WebNavigator_Gadget_Watcher
 {
     public partial class WebNavigator_Gadget_Watcher_ConfigForm : Form
